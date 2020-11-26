@@ -10,7 +10,6 @@
     height: 30px;
 }
 
-/** Navigation **/
 #navigation {
 	display: inline-block;
 	list-style: none;
@@ -41,7 +40,7 @@
 }
 
 .bgImg {
-    background-image: url("images/bg-header.JPG");
+    background-image: url("images/bg-header.jpg");
 }
 
 .text-1 {
